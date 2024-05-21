@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\bin\Debug\Questionnaire2.exe.config
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\bin\Debug\Questionnaire2.exe
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\bin\Debug\Questionnaire2.pdb
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire2.Form1.resources
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire2.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire2.exe
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\Questionnaire2\Questionnaire2\obj\Debug\Questionnaire2.pdb
